@@ -158,3 +158,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+external_resources/itwiki_20180420_100d.pkl
+external_resources/MRCONSO.RRF
+
+med-it-word-emb.tgz
+external_resources/itwiki_20180420_100d.pkl
+out/aux_files/MRCONSO_eng_ita.csv
+out/aux_files/MRCONSO_eng_ita.pkl
