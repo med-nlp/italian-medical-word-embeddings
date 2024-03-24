@@ -1,11 +1,12 @@
-# italian-medical-word-embeddings
+# Italian Medical Word Embeddings
+by F.A. Cardillo (francoalberto.cardillo@cnr.it), F. Debole (franca.debole@isti.cnr.it)
 
 **If you use this notebook or the resources it builds, please cite:**
 
 **"Italian Word Embeddings for the Medical Domain", F.A. Cardillo, F. Debole. Proc. of the 2024 Joint Int. Conf. on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy, 20--25 May, 2024.**
 
 
-Please notice.
+**NOTICE**
 
 To run the notebooks **you need to**:
 - **download** Word embeddings from https://wikipedia2vec.github.io/wikipedia2vec/pretrained/; file: itwiki\_20180420}
