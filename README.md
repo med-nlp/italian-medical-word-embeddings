@@ -12,6 +12,7 @@ To run the notebooks **you need to**:
   Please download the file in the `external_resources` subfolder
 - **download** the UMLS Concept Names and Sources (`MRCONSO.RRF`) in CSV format and place it in the `external_resources/` folder. Please consult: https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.concept_names_and_sources_file_mr/
 - **unzip** `out/results/results_lrec24.csv.tgz` in the same folder where it is located.
+- **add** you DeepL key in `00_translate_umls_resources.ipynb` in order to translate the terms using DeepL.
 
 
 **LICENSE**
