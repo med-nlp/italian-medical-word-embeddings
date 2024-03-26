@@ -1,4 +1,4 @@
-# Italian Medical Word Embeddings
+# Italian Word Embeddings for the Medical Domain
 by F.A. Cardillo (francoalberto.cardillo@cnr.it), F. Debole (franca.debole@isti.cnr.it)
 
 **If you use this notebook or the resources it builds, please cite:**
