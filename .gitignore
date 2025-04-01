@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+**/*.pkl
+**/*.csv
+**/*.RRF
+out/aux_files/*
+out/eval_resources/*
+out/results/*
+**/*.tgz

@@ -1,0 +1,30 @@
+# Italian Medical Word Embeddings
+by F.A. Cardillo (francoalberto.cardillo@cnr.it), F. Debole (franca.debole@isti.cnr.it)
+
+**If you use this notebook or the resources it builds, please cite:**
+
+**"Italian Word Embeddings for the Medical Domain", F.A. Cardillo, F. Debole. Proc. of the 2024 Joint Int. Conf. on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy, 20--25 May, 2024.**
+
+
+**NOTICE**
+
+To run the notebooks **you need to**:
+- **download** Word embeddings from https://wikipedia2vec.github.io/wikipedia2vec/pretrained/; file: itwiki\_20180420}
+  Please download the file in the `external_resources` subfolder
+- **download** the UMLS Concept Names and Sources (`MRCONSO.RRF`) in CSV format and place it in the `external_resources/` folder. Please consult: https://www.ncbi.nlm.nih.gov/books/NBK9685/table/ch03.T.concept_names_and_sources_file_mr/
+- **unzip** `out/results/results_lrec24.csv.tgz` in the same folder where it is located.
+- **add** you DeepL key in `00_translate_umls_resources.ipynb` (if you want to translate the terms using DeepL).
+
+
+**LICENSE**
+All the published code is release under
+
+The MIT License
+
+Copyright 2024, Franco Alberto Cardillo, Franca Debole
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
